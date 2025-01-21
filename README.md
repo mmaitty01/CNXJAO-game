@@ -26,7 +26,7 @@
 
 ## Getting Started
 To run this app on eclipse follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/............ Alternatively, you can download the project as a ZIP file and extract it.
+1. Clone this repository to your local machine using `git clone https://github.com/mmaitty01/CNXJAO-game.git` Alternatively, you can download the project as a ZIP file and extract it.
 2. Open Eclipse and create a new Java project
 3. Import project source files
 4. Set up the build path (if needed)

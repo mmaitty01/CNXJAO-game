@@ -32,7 +32,8 @@ To run this app on eclipse follow these steps:
 4. Set up the build path (if needed)
 5. Compile and run the project
 
+
 ## Screenshots
-<p align="center"><img width="350" src = "https://github.com/user-attachments/assets/97af6415-40b7-4b23-834a-2d8388ac3869"> </p>
-<p align="center"><img width="270" src = "https://github.com/user-attachments/assets/0d075544-da1a-4bb1-8167-77f7e442420c"> <img width="270" src = "https://github.com/user-attachments/assets/1846dc70-68d0-4616-ac28-e6b632a70e5e"> <img width="270" src = "https://github.com/user-attachments/assets/9d579633-302f-4747-beaf-aa4fa8e6b574"></p>
+<p align="center"><img width="350" src = "https://github.com/user-attachments/assets/3e9a6c05-52f3-4726-ba47-1f01e7a86774"> </p>
+<p align="center"><img width="270" src = "https://github.com/user-attachments/assets/c45e727d-b304-4ec2-85bf-b6db0ffc7c9b"> <img width="270" src = "https://github.com/user-attachments/assets/d87fd738-8010-457f-9332-441d2b2da099"> <img width="270" src = "https://github.com/user-attachments/assets/657ccecc-fccd-4ff8-ba9f-9a575b229fd2"></p>
 
